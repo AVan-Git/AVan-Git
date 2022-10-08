@@ -22,6 +22,8 @@
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MY SQL](http://img.shields.io/badge/-MySQL-1557A2?style=flat-square)
+![Mongo DB](http://img.shields.io/badge/-MongoDB-409340?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -35,5 +37,6 @@
 
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvangithub&show_icons=true&locale=en&layout=compact" alt="nguyenvangithub" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvangithub&show_icons=true&locale=en" alt="nguyenvangithub" /></p
