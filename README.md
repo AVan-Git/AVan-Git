@@ -36,7 +36,6 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AVan-Git&show_icons=true&locale=en&layout=compact" alt="AVan-Git" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AVan-Git&show_icons=true&locale=en&layout=compact" alt="AVan-Git" /></p>
 <br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AVan-Git&show_icons=true&locale=en" alt="AVan-Git" /></p
